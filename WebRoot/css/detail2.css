@@ -1,0 +1,51 @@
+@CHARSET "UTF-8";
+
+fieldset { 
+	float:right;
+
+    padding:10px; 
+    margin:10px 120px; 
+    width:500px;
+    border:1px solid #1E7ACE; 
+    background:#fff; 
+	}
+	fieldset legend { 
+    color:#1E7ACE; 
+    font-weight:bold; 
+    padding:3px 20px 3px 20px; 
+    border:1px solid #1E7ACE;     
+    background:#fff; 
+} 
+ 
+fieldset label { 
+	color:#1E7ACE; 
+    float:left; 
+    width:200px; 
+    text-align:right; 
+    padding:4px; 
+    margin:1px; 
+} 
+ 
+fieldset div { 
+	
+    clear:left; 
+    margin-bottom:2px; 
+} 
+ 
+.enter{ text-align:center;} 
+.clear { 
+    clear:both; 
+} 
+#enter{text-align:center;} 
+#buttom{ 
+    padding-left:500px; 
+    margin-left:500px;
+    font-size:12px; 
+    border:1px #1E7ACE solid; 
+    background:#D0F0FF; 
+}
+input, select,textarea { 
+    padding:1px; 
+    margin:2px; 
+    font-size:11px; 
+}
